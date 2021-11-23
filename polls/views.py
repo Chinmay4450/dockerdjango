@@ -10,3 +10,6 @@ def index(request):
 
 def indexchinmay(request):
     return HttpResponse("Hello,CHINMAY")
+
+def gaurav(request):
+    return HttpResponse("Hello,gaurav")
